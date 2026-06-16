@@ -1,0 +1,10 @@
+flask
+gunicorn
+numpy
+pandas
+scikit-learn
+requests
+joblib
+matplotlib
+pypdf
+nest-asyncio
