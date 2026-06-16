@@ -784,6 +784,3 @@ config = uvicorn.Config(
     log_level="info"
 )
 
-server = uvicorn.Server(config)
-
-await server.serve()
